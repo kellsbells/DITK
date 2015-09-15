@@ -1,0 +1,11 @@
+/*
+Theme Name: Powen-Lite Child
+Theme URI: http://dancinginthekitchenrecipes.com
+Description: Child theme for the powen-lite theme
+Author: Kellee Dawn
+Author URI: http://kelleedawnmartins.com/
+Template: powen-lite
+Version: 1.0
+*/
+
+@import "../powen-lite/style.css";
